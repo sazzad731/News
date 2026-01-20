@@ -1,7 +1,7 @@
 import {MongoClient} from "mongodb"
 
 
-const uri = "";
+const uri = "Your Mongodb uri";
 
 
 export async function dbConnect() {
