@@ -1,7 +1,7 @@
 import {MongoClient} from "mongodb"
 
 
-const uri = "mongodb+srv://sajjadho731_db_user:ZjlIkrfbTcusMd1Q@cluster0.nnjcbf8.mongodb.net/?appName=Cluster0";
+const uri = "";
 
 
 export async function dbConnect() {
